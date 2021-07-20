@@ -1,2 +1,2 @@
-!pip install adafruit-io --quiet
-!pip install adafruit-io --quiet
+adafruit-io 
+python-telegram-bot
